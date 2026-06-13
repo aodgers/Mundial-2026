@@ -509,6 +509,7 @@ total_goals = sum((m["goals_a"] or 0) + (m["goals_b"] or 0) for m in db["matches
 with st.sidebar:
     st.image("data/logo.png", width=120)
     st.title("Control del Torneo")
+    st.caption("Versión App: 1.0.1 (Goleadores Fix)")
     
     st.markdown("---")
     st.subheader("📊 Progreso del Mundial")

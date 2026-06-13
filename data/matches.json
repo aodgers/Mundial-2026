@@ -1,0 +1,2231 @@
+{
+  "tournament": "FIFA World Cup 2026",
+  "host_countries": [
+    "Estados Unidos",
+    "México",
+    "Canadá"
+  ],
+  "groups": {
+    "A": [
+      "México",
+      "Sudáfrica",
+      "Corea del Sur",
+      "República Checa"
+    ],
+    "B": [
+      "Canadá",
+      "Bosnia y Herzegovina",
+      "Catar",
+      "Suiza"
+    ],
+    "C": [
+      "Brasil",
+      "Marruecos",
+      "Haití",
+      "Escocia"
+    ],
+    "D": [
+      "Estados Unidos",
+      "Paraguay",
+      "Australia",
+      "Turquía"
+    ],
+    "E": [
+      "Alemania",
+      "Curazao",
+      "Costa de Marfil",
+      "Ecuador"
+    ],
+    "F": [
+      "Países Bajos",
+      "Japón",
+      "Suecia",
+      "Túnez"
+    ],
+    "G": [
+      "España",
+      "R.D. del Congo",
+      "Irak",
+      "Colombia"
+    ],
+    "H": [
+      "Portugal",
+      "Austria",
+      "Arabia Saudí",
+      "Senegal"
+    ],
+    "I": [
+      "Argentina",
+      "Noruega",
+      "Panamá",
+      "Cabo Verde"
+    ],
+    "J": [
+      "Bélgica",
+      "Uruguay",
+      "Jordania",
+      "Argelia"
+    ],
+    "K": [
+      "Inglaterra",
+      "Ghana",
+      "Nueva Zelanda",
+      "Croacia"
+    ],
+    "L": [
+      "Dinamarca",
+      "Nigeria",
+      "Uzbekistán",
+      "Francia"
+    ]
+  },
+  "team_colors": {
+    "México": "#006847",
+    "Estados Unidos": "#3c3b6e",
+    "Canadá": "#ff0000",
+    "Panamá": "#d21034",
+    "Haití": "#00209f",
+    "Curazao": "#002b7f",
+    "Argentina": "#74acdf",
+    "Brasil": "#009c3b",
+    "Colombia": "#fcd116",
+    "Ecuador": "#ffd100",
+    "Paraguay": "#d52b1e",
+    "Uruguay": "#5cbfeb",
+    "Alemania": "#000000",
+    "Austria": "#ed2939",
+    "Bélgica": "#ed2939",
+    "Bosnia y Herzegovina": "#00209f",
+    "Croacia": "#171796",
+    "Escocia": "#005ebb",
+    "España": "#c60b1e",
+    "Francia": "#002654",
+    "Inglaterra": "#ffffff",
+    "Noruega": "#ef2b2d",
+    "Países Bajos": "#ff6600",
+    "Portugal": "#006600",
+    "República Checa": "#11457e",
+    "Suecia": "#006aa7",
+    "Suiza": "#d52b1e",
+    "Turquía": "#e30a17",
+    "Argelia": "#006633",
+    "Cabo Verde": "#0f47af",
+    "Costa de Marfil": "#ff8200",
+    "Egipto": "#c8102e",
+    "Ghana": "#006b3f",
+    "Marruecos": "#c1272d",
+    "Senegal": "#00853f",
+    "Sudáfrica": "#007a4d",
+    "Túnez": "#e20e17",
+    "R.D. del Congo": "#007fff",
+    "Arabia Saudí": "#006c35",
+    "Australia": "#00843d",
+    "Catar": "#8d1b3d",
+    "Corea del Sur": "#003478",
+    "Irak": "#c8102e",
+    "Irán": "#239f40",
+    "Japón": "#000080",
+    "Jordania": "#007a3d",
+    "Uzbekistán": "#1eb53a",
+    "Nueva Zelanda": "#000000"
+  },
+  "team_flags": {
+    "México": "🇲🇽",
+    "Estados Unidos": "🇺🇸",
+    "Canadá": "🇨🇦",
+    "Panamá": "🇵🇦",
+    "Haití": "🇭🇹",
+    "Curazao": "🇨🇼",
+    "Argentina": "🇦🇷",
+    "Brasil": "🇧🇷",
+    "Colombia": "🇨🇴",
+    "Ecuador": "🇪🇨",
+    "Paraguay": "🇵🇾",
+    "Uruguay": "🇺🇾",
+    "Alemania": "🇩🇪",
+    "Austria": "🇦🇹",
+    "Bélgica": "🇧🇪",
+    "Bosnia y Herzegovina": "🇧🇦",
+    "Croacia": "🇭🇷",
+    "Escocia": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "España": "🇪🇸",
+    "Francia": "🇫🇷",
+    "Inglaterra": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "Noruega": "🇳🇴",
+    "Países Bajos": "🇳🇱",
+    "Portugal": "🇵🇹",
+    "República Checa": "🇨🇿",
+    "Suecia": "🇸🇪",
+    "Suiza": "🇨🇭",
+    "Turquía": "🇹🇷",
+    "Argelia": "🇩🇿",
+    "Cabo Verde": "🇨🇻",
+    "Costa de Marfil": "🇨🇮",
+    "Egipto": "🇪🇬",
+    "Ghana": "🇬🇭",
+    "Marruecos": "🇲🇦",
+    "Senegal": "🇸🇳",
+    "Sudáfrica": "🇿🇦",
+    "Túnez": "🇹🇳",
+    "R.D. del Congo": "🇨🇩",
+    "Arabia Saudí": "🇸🇦",
+    "Australia": "🇦🇺",
+    "Catar": "🇶🇦",
+    "Corea del Sur": "🇰🇷",
+    "Irak": "🇮🇶",
+    "Irán": "🇮🇷",
+    "Japón": "🇯🇵",
+    "Jordania": "🇯🇴",
+    "Uzbekistán": "🇺🇿",
+    "Nueva Zelanda": "🇳🇿"
+  },
+  "team_iso": {
+    "México": "mx",
+    "Estados Unidos": "us",
+    "Canadá": "ca",
+    "Panamá": "pa",
+    "Haití": "ht",
+    "Curazao": "cw",
+    "Argentina": "ar",
+    "Brasil": "br",
+    "Colombia": "co",
+    "Ecuador": "ec",
+    "Paraguay": "py",
+    "Uruguay": "uy",
+    "Alemania": "de",
+    "Austria": "at",
+    "Bélgica": "be",
+    "Bosnia y Herzegovina": "ba",
+    "Croacia": "hr",
+    "Escocia": "gb-sct",
+    "España": "es",
+    "Francia": "fr",
+    "Inglaterra": "gb-eng",
+    "Noruega": "no",
+    "Países Bajos": "nl",
+    "Portugal": "pt",
+    "República Checa": "cz",
+    "Suecia": "se",
+    "Suiza": "ch",
+    "Turquía": "tr",
+    "Argelia": "dz",
+    "Cabo Verde": "cv",
+    "Costa de Marfil": "ci",
+    "Egipto": "eg",
+    "Ghana": "gh",
+    "Marruecos": "ma",
+    "Senegal": "sn",
+    "Sudáfrica": "za",
+    "Túnez": "tn",
+    "R.D. del Congo": "cd",
+    "Arabia Saudí": "sa",
+    "Australia": "au",
+    "Catar": "qa",
+    "Corea del Sur": "kr",
+    "Irak": "iq",
+    "Irán": "ir",
+    "Japón": "jp",
+    "Jordania": "jo",
+    "Uzbekistán": "uz",
+    "Nueva Zelanda": "nz",
+    "Dinamarca": "dk",
+    "Nigeria": "ng"
+  },
+  "matches": [
+    {
+      "id": 1,
+      "date": "2026-06-11",
+      "time_clt": "15:00",
+      "team_a": "México",
+      "team_b": "Sudáfrica",
+      "group": "A",
+      "stadium": "Estadio Azteca",
+      "city": "Ciudad de México",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": 2,
+      "goals_b": 0,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [
+          "Santiago Giménez (23')",
+          "Hirving Lozano (78')"
+        ],
+        "team_b": []
+      }
+    },
+    {
+      "id": 2,
+      "date": "2026-06-11",
+      "time_clt": "22:00",
+      "team_a": "Corea del Sur",
+      "team_b": "República Checa",
+      "group": "A",
+      "stadium": "MetLife Stadium",
+      "city": "Nueva York/Nueva Jersey",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": 2,
+      "goals_b": 1,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [
+          "Son Heung-min (45')",
+          "Hwang Hee-chan (82')"
+        ],
+        "team_b": [
+          "Patrik Schick (60')"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "date": "2026-06-12",
+      "time_clt": "15:00",
+      "team_a": "Canadá",
+      "team_b": "Bosnia y Herzegovina",
+      "group": "B",
+      "stadium": "SoFi Stadium",
+      "city": "Los Ángeles",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": 1,
+      "goals_b": 1,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [
+          "Jonathan David (34')"
+        ],
+        "team_b": [
+          "Edin Džeko (75')"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "date": "2026-06-13",
+      "time_clt": "15:00",
+      "team_a": "Catar",
+      "team_b": "Suiza",
+      "group": "B",
+      "stadium": "BC Place",
+      "city": "Vancouver",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 5,
+      "date": "2026-06-13",
+      "time_clt": "18:00",
+      "team_a": "Brasil",
+      "team_b": "Marruecos",
+      "group": "C",
+      "stadium": "Hard Rock Stadium",
+      "city": "Miami",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 6,
+      "date": "2026-06-13",
+      "time_clt": "21:00",
+      "team_a": "Haití",
+      "team_b": "Escocia",
+      "group": "C",
+      "stadium": "Lincoln Financial Field",
+      "city": "Filadelfia",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 7,
+      "date": "2026-06-12",
+      "time_clt": "21:00",
+      "team_a": "Estados Unidos",
+      "team_b": "Paraguay",
+      "group": "D",
+      "stadium": "AT&T Stadium",
+      "city": "Dallas",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": 4,
+      "goals_b": 1,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [
+          "Christian Pulisic (12')",
+          "Folarin Balogun (40')",
+          "Christian Pulisic (55')",
+          "Weston McKennie (70')"
+        ],
+        "team_b": [
+          "Miguel Almirón (30')"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "date": "2026-06-14",
+      "time_clt": "00:00",
+      "team_a": "Australia",
+      "team_b": "Turquía",
+      "group": "D",
+      "stadium": "Lumen Field",
+      "city": "Seattle",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 9,
+      "date": "2026-06-14",
+      "time_clt": "13:00",
+      "team_a": "Alemania",
+      "team_b": "Curazao",
+      "group": "E",
+      "stadium": "MetLife Stadium",
+      "city": "Nueva York/Nueva Jersey",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 10,
+      "date": "2026-06-14",
+      "time_clt": "19:00",
+      "team_a": "Costa de Marfil",
+      "team_b": "Ecuador",
+      "group": "E",
+      "stadium": "Gillette Stadium",
+      "city": "Boston",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 11,
+      "date": "2026-06-14",
+      "time_clt": "16:00",
+      "team_a": "Países Bajos",
+      "team_b": "Japón",
+      "group": "F",
+      "stadium": "BC Place",
+      "city": "Vancouver",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 12,
+      "date": "2026-06-14",
+      "time_clt": "22:00",
+      "team_a": "Suecia",
+      "team_b": "Túnez",
+      "group": "F",
+      "stadium": "NRG Stadium",
+      "city": "Houston",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 13,
+      "date": "2026-06-15",
+      "time_clt": "15:00",
+      "team_a": "España",
+      "team_b": "R.D. del Congo",
+      "group": "G",
+      "stadium": "Lincoln Financial Field",
+      "city": "Filadelfia",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 14,
+      "date": "2026-06-15",
+      "time_clt": "18:00",
+      "team_a": "Irak",
+      "team_b": "Colombia",
+      "group": "G",
+      "stadium": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 15,
+      "date": "2026-06-15",
+      "time_clt": "21:00",
+      "team_a": "Portugal",
+      "team_b": "Austria",
+      "group": "H",
+      "stadium": "Lumen Field",
+      "city": "Seattle",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 16,
+      "date": "2026-06-15",
+      "time_clt": "12:00",
+      "team_a": "Arabia Saudí",
+      "team_b": "Senegal",
+      "group": "H",
+      "stadium": "TQL Stadium",
+      "city": "Cincinnati",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 17,
+      "date": "2026-06-16",
+      "time_clt": "18:00",
+      "team_a": "Argentina",
+      "team_b": "Noruega",
+      "group": "I",
+      "stadium": "Gillette Stadium",
+      "city": "Boston",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 18,
+      "date": "2026-06-16",
+      "time_clt": "15:00",
+      "team_a": "Panamá",
+      "team_b": "Cabo Verde",
+      "group": "I",
+      "stadium": "Estadio BBVA",
+      "city": "Monterrey",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 19,
+      "date": "2026-06-16",
+      "time_clt": "21:00",
+      "team_a": "Bélgica",
+      "team_b": "Uruguay",
+      "group": "J",
+      "stadium": "NRG Stadium",
+      "city": "Houston",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 20,
+      "date": "2026-06-16",
+      "time_clt": "12:00",
+      "team_a": "Jordania",
+      "team_b": "Argelia",
+      "group": "J",
+      "stadium": "Levi's Stadium",
+      "city": "San Francisco",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 21,
+      "date": "2026-06-17",
+      "time_clt": "18:00",
+      "team_a": "Inglaterra",
+      "team_b": "Ghana",
+      "group": "K",
+      "stadium": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 22,
+      "date": "2026-06-17",
+      "time_clt": "21:00",
+      "team_a": "Nueva Zelanda",
+      "team_b": "Croacia",
+      "group": "K",
+      "stadium": "Geodis Park",
+      "city": "Nashville",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 23,
+      "date": "2026-06-17",
+      "time_clt": "12:00",
+      "team_a": "Dinamarca",
+      "team_b": "Nigeria",
+      "group": "L",
+      "stadium": "TQL Stadium",
+      "city": "Cincinnati",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 24,
+      "date": "2026-06-17",
+      "time_clt": "15:00",
+      "team_a": "Uzbekistán",
+      "team_b": "Francia",
+      "group": "L",
+      "stadium": "Inter&Co Stadium",
+      "city": "Orlando",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 1",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 25,
+      "date": "2026-06-18",
+      "time_clt": "18:00",
+      "team_a": "México",
+      "team_b": "Corea del Sur",
+      "group": "A",
+      "stadium": "Gillette Stadium",
+      "city": "Boston",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 26,
+      "date": "2026-06-18",
+      "time_clt": "15:00",
+      "team_a": "República Checa",
+      "team_b": "Sudáfrica",
+      "group": "A",
+      "stadium": "Estadio BBVA",
+      "city": "Monterrey",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 27,
+      "date": "2026-06-19",
+      "time_clt": "15:00",
+      "team_a": "Canadá",
+      "team_b": "Catar",
+      "group": "B",
+      "stadium": "NRG Stadium",
+      "city": "Houston",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 28,
+      "date": "2026-06-20",
+      "time_clt": "15:00",
+      "team_a": "Suiza",
+      "team_b": "Bosnia y Herzegovina",
+      "group": "B",
+      "stadium": "Levi's Stadium",
+      "city": "San Francisco",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 29,
+      "date": "2026-06-20",
+      "time_clt": "18:00",
+      "team_a": "Brasil",
+      "team_b": "Haití",
+      "group": "C",
+      "stadium": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 30,
+      "date": "2026-06-20",
+      "time_clt": "21:00",
+      "team_a": "Escocia",
+      "team_b": "Marruecos",
+      "group": "C",
+      "stadium": "Geodis Park",
+      "city": "Nashville",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 31,
+      "date": "2026-06-19",
+      "time_clt": "21:00",
+      "team_a": "Estados Unidos",
+      "team_b": "Australia",
+      "group": "D",
+      "stadium": "TQL Stadium",
+      "city": "Cincinnati",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 32,
+      "date": "2026-06-21",
+      "time_clt": "00:00",
+      "team_a": "Turquía",
+      "team_b": "Paraguay",
+      "group": "D",
+      "stadium": "Inter&Co Stadium",
+      "city": "Orlando",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 33,
+      "date": "2026-06-21",
+      "time_clt": "15:00",
+      "team_a": "Alemania",
+      "team_b": "Costa de Marfil",
+      "group": "E",
+      "stadium": "Estadio BBVA",
+      "city": "Monterrey",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 34,
+      "date": "2026-06-21",
+      "time_clt": "18:00",
+      "team_a": "Ecuador",
+      "team_b": "Curazao",
+      "group": "E",
+      "stadium": "Audi Field",
+      "city": "Washington D.C.",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 35,
+      "date": "2026-06-21",
+      "time_clt": "21:00",
+      "team_a": "Países Bajos",
+      "team_b": "Suecia",
+      "group": "F",
+      "stadium": "Levi's Stadium",
+      "city": "San Francisco",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 36,
+      "date": "2026-06-21",
+      "time_clt": "12:00",
+      "team_a": "Túnez",
+      "team_b": "Japón",
+      "group": "F",
+      "stadium": "CPKC Stadium",
+      "city": "Kansas City",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 37,
+      "date": "2026-06-22",
+      "time_clt": "15:00",
+      "team_a": "España",
+      "team_b": "Irak",
+      "group": "G",
+      "stadium": "Geodis Park",
+      "city": "Nashville",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 38,
+      "date": "2026-06-22",
+      "time_clt": "18:00",
+      "team_a": "Colombia",
+      "team_b": "R.D. del Congo",
+      "group": "G",
+      "stadium": "Bank of America Stadium",
+      "city": "Charlotte",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 39,
+      "date": "2026-06-22",
+      "time_clt": "21:00",
+      "team_a": "Portugal",
+      "team_b": "Arabia Saudí",
+      "group": "H",
+      "stadium": "Inter&Co Stadium",
+      "city": "Orlando",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 40,
+      "date": "2026-06-22",
+      "time_clt": "12:00",
+      "team_a": "Senegal",
+      "team_b": "Austria",
+      "group": "H",
+      "stadium": "Raymond James Stadium",
+      "city": "Tampa",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 41,
+      "date": "2026-06-23",
+      "time_clt": "18:00",
+      "team_a": "Argentina",
+      "team_b": "Panamá",
+      "group": "I",
+      "stadium": "Audi Field",
+      "city": "Washington D.C.",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 42,
+      "date": "2026-06-23",
+      "time_clt": "15:00",
+      "team_a": "Cabo Verde",
+      "team_b": "Noruega",
+      "group": "I",
+      "stadium": "Empower Field",
+      "city": "Denver",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 43,
+      "date": "2026-06-23",
+      "time_clt": "21:00",
+      "team_a": "Bélgica",
+      "team_b": "Jordania",
+      "group": "J",
+      "stadium": "CPKC Stadium",
+      "city": "Kansas City",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 44,
+      "date": "2026-06-23",
+      "time_clt": "12:00",
+      "team_a": "Argelia",
+      "team_b": "Uruguay",
+      "group": "J",
+      "stadium": "Estadio Azteca",
+      "city": "Ciudad de México",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 45,
+      "date": "2026-06-24",
+      "time_clt": "18:00",
+      "team_a": "Inglaterra",
+      "team_b": "Nueva Zelanda",
+      "group": "K",
+      "stadium": "Bank of America Stadium",
+      "city": "Charlotte",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 46,
+      "date": "2026-06-24",
+      "time_clt": "21:00",
+      "team_a": "Croacia",
+      "team_b": "Ghana",
+      "group": "K",
+      "stadium": "SoFi Stadium",
+      "city": "Los Ángeles",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 47,
+      "date": "2026-06-24",
+      "time_clt": "12:00",
+      "team_a": "Dinamarca",
+      "team_b": "Uzbekistán",
+      "group": "L",
+      "stadium": "Raymond James Stadium",
+      "city": "Tampa",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 48,
+      "date": "2026-06-24",
+      "time_clt": "15:00",
+      "team_a": "Francia",
+      "team_b": "Nigeria",
+      "group": "L",
+      "stadium": "Hard Rock Stadium",
+      "city": "Miami",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 2",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 49,
+      "date": "2026-06-25",
+      "time_clt": "12:00",
+      "team_a": "República Checa",
+      "team_b": "México",
+      "group": "A",
+      "stadium": "Geodis Park",
+      "city": "Nashville",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 50,
+      "date": "2026-06-25",
+      "time_clt": "12:00",
+      "team_a": "Sudáfrica",
+      "team_b": "Corea del Sur",
+      "group": "A",
+      "stadium": "Bank of America Stadium",
+      "city": "Charlotte",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 51,
+      "date": "2026-06-25",
+      "time_clt": "15:00",
+      "team_a": "Suiza",
+      "team_b": "Canadá",
+      "group": "B",
+      "stadium": "Inter&Co Stadium",
+      "city": "Orlando",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 52,
+      "date": "2026-06-25",
+      "time_clt": "15:00",
+      "team_a": "Bosnia y Herzegovina",
+      "team_b": "Catar",
+      "group": "B",
+      "stadium": "Raymond James Stadium",
+      "city": "Tampa",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 53,
+      "date": "2026-06-25",
+      "time_clt": "18:00",
+      "team_a": "Escocia",
+      "team_b": "Brasil",
+      "group": "C",
+      "stadium": "Audi Field",
+      "city": "Washington D.C.",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 54,
+      "date": "2026-06-25",
+      "time_clt": "18:00",
+      "team_a": "Marruecos",
+      "team_b": "Haití",
+      "group": "C",
+      "stadium": "Empower Field",
+      "city": "Denver",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 55,
+      "date": "2026-06-25",
+      "time_clt": "21:00",
+      "team_a": "Turquía",
+      "team_b": "Estados Unidos",
+      "group": "D",
+      "stadium": "CPKC Stadium",
+      "city": "Kansas City",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 56,
+      "date": "2026-06-25",
+      "time_clt": "21:00",
+      "team_a": "Paraguay",
+      "team_b": "Australia",
+      "group": "D",
+      "stadium": "Estadio Azteca",
+      "city": "Ciudad de México",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 57,
+      "date": "2026-06-26",
+      "time_clt": "12:00",
+      "team_a": "Ecuador",
+      "team_b": "Alemania",
+      "group": "E",
+      "stadium": "Bank of America Stadium",
+      "city": "Charlotte",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 58,
+      "date": "2026-06-26",
+      "time_clt": "12:00",
+      "team_a": "Curazao",
+      "team_b": "Costa de Marfil",
+      "group": "E",
+      "stadium": "SoFi Stadium",
+      "city": "Los Ángeles",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 59,
+      "date": "2026-06-26",
+      "time_clt": "15:00",
+      "team_a": "Túnez",
+      "team_b": "Países Bajos",
+      "group": "F",
+      "stadium": "Raymond James Stadium",
+      "city": "Tampa",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 60,
+      "date": "2026-06-26",
+      "time_clt": "15:00",
+      "team_a": "Japón",
+      "team_b": "Suecia",
+      "group": "F",
+      "stadium": "Hard Rock Stadium",
+      "city": "Miami",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 61,
+      "date": "2026-06-26",
+      "time_clt": "18:00",
+      "team_a": "Colombia",
+      "team_b": "España",
+      "group": "G",
+      "stadium": "Empower Field",
+      "city": "Denver",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 62,
+      "date": "2026-06-26",
+      "time_clt": "18:00",
+      "team_a": "R.D. del Congo",
+      "team_b": "Irak",
+      "group": "G",
+      "stadium": "AT&T Stadium",
+      "city": "Dallas",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 63,
+      "date": "2026-06-26",
+      "time_clt": "21:00",
+      "team_a": "Senegal",
+      "team_b": "Portugal",
+      "group": "H",
+      "stadium": "Estadio Azteca",
+      "city": "Ciudad de México",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 64,
+      "date": "2026-06-26",
+      "time_clt": "21:00",
+      "team_a": "Austria",
+      "team_b": "Arabia Saudí",
+      "group": "H",
+      "stadium": "MetLife Stadium",
+      "city": "Nueva York/Nueva Jersey",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 65,
+      "date": "2026-06-27",
+      "time_clt": "12:00",
+      "team_a": "Cabo Verde",
+      "team_b": "Argentina",
+      "group": "I",
+      "stadium": "SoFi Stadium",
+      "city": "Los Ángeles",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 66,
+      "date": "2026-06-27",
+      "time_clt": "12:00",
+      "team_a": "Noruega",
+      "team_b": "Panamá",
+      "group": "I",
+      "stadium": "BC Place",
+      "city": "Vancouver",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 67,
+      "date": "2026-06-27",
+      "time_clt": "15:00",
+      "team_a": "Argelia",
+      "team_b": "Bélgica",
+      "group": "J",
+      "stadium": "Hard Rock Stadium",
+      "city": "Miami",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 68,
+      "date": "2026-06-27",
+      "time_clt": "15:00",
+      "team_a": "Uruguay",
+      "team_b": "Jordania",
+      "group": "J",
+      "stadium": "Lincoln Financial Field",
+      "city": "Filadelfia",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 69,
+      "date": "2026-06-27",
+      "time_clt": "18:00",
+      "team_a": "Croacia",
+      "team_b": "Inglaterra",
+      "group": "K",
+      "stadium": "AT&T Stadium",
+      "city": "Dallas",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 70,
+      "date": "2026-06-27",
+      "time_clt": "18:00",
+      "team_a": "Ghana",
+      "team_b": "Nueva Zelanda",
+      "group": "K",
+      "stadium": "Lumen Field",
+      "city": "Seattle",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 71,
+      "date": "2026-06-27",
+      "time_clt": "21:00",
+      "team_a": "Francia",
+      "team_b": "Dinamarca",
+      "group": "L",
+      "stadium": "MetLife Stadium",
+      "city": "Nueva York/Nueva Jersey",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 72,
+      "date": "2026-06-27",
+      "time_clt": "21:00",
+      "team_a": "Nigeria",
+      "team_b": "Uzbekistán",
+      "group": "L",
+      "stadium": "Gillette Stadium",
+      "city": "Boston",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Fase de Grupos - Jornada 3",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 73,
+      "date": "2026-06-28",
+      "time_clt": "15:00",
+      "team_a": "2° Grupo A",
+      "team_b": "2° Grupo B",
+      "group": "-",
+      "stadium": "SoFi Stadium",
+      "city": "Los Ángeles",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Dieciseisavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 74,
+      "date": "2026-06-29",
+      "time_clt": "15:00",
+      "team_a": "1° Grupo E",
+      "team_b": "3° Grupo A/B/C/D/F",
+      "group": "-",
+      "stadium": "Gillette Stadium",
+      "city": "Boston",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Dieciseisavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 75,
+      "date": "2026-06-29",
+      "time_clt": "18:00",
+      "team_a": "1° Grupo F",
+      "team_b": "2° Grupo C",
+      "group": "-",
+      "stadium": "Estadio BBVA",
+      "city": "Monterrey",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Dieciseisavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 76,
+      "date": "2026-06-29",
+      "time_clt": "21:00",
+      "team_a": "1° Grupo C",
+      "team_b": "2° Grupo F",
+      "group": "-",
+      "stadium": "NRG Stadium",
+      "city": "Houston",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Dieciseisavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 77,
+      "date": "2026-06-30",
+      "time_clt": "15:00",
+      "team_a": "1° Grupo I",
+      "team_b": "3° Grupo C/D/F/G/H",
+      "group": "-",
+      "stadium": "MetLife Stadium",
+      "city": "Nueva York/Nueva Jersey",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Dieciseisavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 78,
+      "date": "2026-06-30",
+      "time_clt": "18:00",
+      "team_a": "2° Grupo E",
+      "team_b": "2° Grupo I",
+      "group": "-",
+      "stadium": "AT&T Stadium",
+      "city": "Dallas",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Dieciseisavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 79,
+      "date": "2026-06-30",
+      "time_clt": "21:00",
+      "team_a": "1° Grupo A",
+      "team_b": "3° Grupo C/E/F/H/I",
+      "group": "-",
+      "stadium": "Estadio Azteca",
+      "city": "Ciudad de México",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Dieciseisavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 80,
+      "date": "2026-07-01",
+      "time_clt": "15:00",
+      "team_a": "1° Grupo L",
+      "team_b": "3° Grupo E/H/I/J/K",
+      "group": "-",
+      "stadium": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Dieciseisavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 81,
+      "date": "2026-07-01",
+      "time_clt": "18:00",
+      "team_a": "1° Grupo D",
+      "team_b": "3° Grupo B/E/F/I/J",
+      "group": "-",
+      "stadium": "Levi's Stadium",
+      "city": "San Francisco",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Dieciseisavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 82,
+      "date": "2026-07-01",
+      "time_clt": "21:00",
+      "team_a": "1° Grupo G",
+      "team_b": "3° Grupo A/E/H/I/J",
+      "group": "-",
+      "stadium": "Lumen Field",
+      "city": "Seattle",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Dieciseisavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 83,
+      "date": "2026-07-02",
+      "time_clt": "15:00",
+      "team_a": "2° Grupo K",
+      "team_b": "2° Grupo L",
+      "group": "-",
+      "stadium": "BMO Field",
+      "city": "Toronto",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Dieciseisavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 84,
+      "date": "2026-07-02",
+      "time_clt": "18:00",
+      "team_a": "1° Grupo H",
+      "team_b": "2° Grupo J",
+      "group": "-",
+      "stadium": "SoFi Stadium",
+      "city": "Los Ángeles",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Dieciseisavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 85,
+      "date": "2026-07-02",
+      "time_clt": "21:00",
+      "team_a": "1° Grupo B",
+      "team_b": "3° Grupo E/F/G/I/J",
+      "group": "-",
+      "stadium": "BC Place",
+      "city": "Vancouver",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Dieciseisavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 86,
+      "date": "2026-07-03",
+      "time_clt": "15:00",
+      "team_a": "1° Grupo J",
+      "team_b": "2° Grupo H",
+      "group": "-",
+      "stadium": "Hard Rock Stadium",
+      "city": "Miami",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Dieciseisavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 87,
+      "date": "2026-07-03",
+      "time_clt": "18:00",
+      "team_a": "1° Grupo K",
+      "team_b": "3° Grupo D/E/I/J/L",
+      "group": "-",
+      "stadium": "Arrowhead Stadium",
+      "city": "Kansas City",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Dieciseisavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 88,
+      "date": "2026-07-03",
+      "time_clt": "21:00",
+      "team_a": "2° Grupo D",
+      "team_b": "2° Grupo G",
+      "group": "-",
+      "stadium": "AT&T Stadium",
+      "city": "Dallas",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Dieciseisavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 89,
+      "date": "2026-07-04",
+      "time_clt": "16:00",
+      "team_a": "Ganador M74",
+      "team_b": "Ganador M77",
+      "group": "-",
+      "stadium": "Lincoln Financial Field",
+      "city": "Filadelfia",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Octavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 90,
+      "date": "2026-07-04",
+      "time_clt": "20:00",
+      "team_a": "Ganador M73",
+      "team_b": "Ganador M75",
+      "group": "-",
+      "stadium": "NRG Stadium",
+      "city": "Houston",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Octavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 91,
+      "date": "2026-07-05",
+      "time_clt": "16:00",
+      "team_a": "Ganador M76",
+      "team_b": "Ganador M78",
+      "group": "-",
+      "stadium": "MetLife Stadium",
+      "city": "Nueva York/Nueva Jersey",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Octavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 92,
+      "date": "2026-07-05",
+      "time_clt": "20:00",
+      "team_a": "Ganador M79",
+      "team_b": "Ganador M80",
+      "group": "-",
+      "stadium": "Estadio Azteca",
+      "city": "Ciudad de México",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Octavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 93,
+      "date": "2026-07-06",
+      "time_clt": "16:00",
+      "team_a": "Ganador M83",
+      "team_b": "Ganador M84",
+      "group": "-",
+      "stadium": "AT&T Stadium",
+      "city": "Dallas",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Octavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 94,
+      "date": "2026-07-06",
+      "time_clt": "20:00",
+      "team_a": "Ganador M81",
+      "team_b": "Ganador M82",
+      "group": "-",
+      "stadium": "Lumen Field",
+      "city": "Seattle",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Octavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 95,
+      "date": "2026-07-07",
+      "time_clt": "16:00",
+      "team_a": "Ganador M86",
+      "team_b": "Ganador M88",
+      "group": "-",
+      "stadium": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Octavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 96,
+      "date": "2026-07-07",
+      "time_clt": "20:00",
+      "team_a": "Ganador M85",
+      "team_b": "Ganador M87",
+      "group": "-",
+      "stadium": "BC Place",
+      "city": "Vancouver",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Octavos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 97,
+      "date": "2026-07-09",
+      "time_clt": "18:00",
+      "team_a": "Ganador M89",
+      "team_b": "Ganador M90",
+      "group": "-",
+      "stadium": "Gillette Stadium",
+      "city": "Boston",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Cuartos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 98,
+      "date": "2026-07-10",
+      "time_clt": "18:00",
+      "team_a": "Ganador M93",
+      "team_b": "Ganador M94",
+      "group": "-",
+      "stadium": "SoFi Stadium",
+      "city": "Los Ángeles",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Cuartos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 99,
+      "date": "2026-07-11",
+      "time_clt": "15:00",
+      "team_a": "Ganador M91",
+      "team_b": "Ganador M92",
+      "group": "-",
+      "stadium": "Hard Rock Stadium",
+      "city": "Miami",
+      "channel_free": null,
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Cuartos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 100,
+      "date": "2026-07-11",
+      "time_clt": "19:00",
+      "team_a": "Ganador M95",
+      "team_b": "Ganador M96",
+      "group": "-",
+      "stadium": "Arrowhead Stadium",
+      "city": "Kansas City",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Cuartos de Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 101,
+      "date": "2026-07-14",
+      "time_clt": "19:00",
+      "team_a": "Ganador M97",
+      "team_b": "Ganador M98",
+      "group": "-",
+      "stadium": "AT&T Stadium",
+      "city": "Dallas",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Semifinal",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 102,
+      "date": "2026-07-15",
+      "time_clt": "19:00",
+      "team_a": "Ganador M99",
+      "team_b": "Ganador M100",
+      "group": "-",
+      "stadium": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Semifinal",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 103,
+      "date": "2026-07-18",
+      "time_clt": "16:00",
+      "team_a": "Perdedor M101",
+      "team_b": "Perdedor M102",
+      "group": "-",
+      "stadium": "Hard Rock Stadium",
+      "city": "Miami",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Tercer Puesto",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    },
+    {
+      "id": 104,
+      "date": "2026-07-19",
+      "time_clt": "16:00",
+      "team_a": "Ganador M101",
+      "team_b": "Ganador M102",
+      "group": "-",
+      "stadium": "MetLife Stadium",
+      "city": "Nueva York/Nueva Jersey",
+      "channel_free": "Chilevisión",
+      "channel_pay": "DSports / DGO / Paramount+ / Disney+ Premium",
+      "goals_a": null,
+      "goals_b": null,
+      "phase": "Final",
+      "scorers": {
+        "team_a": [],
+        "team_b": []
+      }
+    }
+  ]
+}
